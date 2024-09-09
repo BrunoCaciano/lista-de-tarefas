@@ -1,4 +1,4 @@
-# To-Do List com Design Inspirado na Netflix
+# To-Do List 
 
 Este é um projeto de lista de tarefas. A aplicação permite adicionar, marcar como completa, excluir e filtrar tarefas, além de utilizar armazenamento local para persistir os dados.
 
